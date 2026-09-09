@@ -1,0 +1,7 @@
+print("turn on the stove")
+print("take one glass water")
+print("wait 2 to 3 mins for boiling")
+print("add tea powder")
+print("add sugar")
+print("add milk")
+print("")

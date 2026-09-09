@@ -1,0 +1,5 @@
+print("hen" in "chicken")
+print(10 in[10,20,30])
+print("b" in "ball")
+print(100 in{200,100,300})
+print("1" in "234")
