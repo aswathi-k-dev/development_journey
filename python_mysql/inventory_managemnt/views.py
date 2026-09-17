@@ -96,14 +96,14 @@ class InventoryCreateLListRetrieveUpdateDelete:
         print(response)
 
 inventory_instance = InventoryCreateLListRetrieveUpdateDelete(user = "root",password = "Password@123")
-"""inventory_instance.post(
+inventory_instance.post(
     name="Keyboard",
     sku="KB001",
     category="Electronics",
     quantity=20,
     price=1200,
     status="Available"
-)"""
+)
 
 #inventory_instance.get()
 
